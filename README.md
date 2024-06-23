@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js, NodeJs, MongoDB**
+- 🌱 I’m currently learning **Data science and machine learning**
 
 - 💬 Ask me about **Javascript, Html, CSS,**
 
