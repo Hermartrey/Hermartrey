@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data science and machine learning**
 
-- 💬 Ask me about **Javascript, Html, CSS,**
+- 💬 Ask me about **Data Science and Machine learning**
 
 - 📫 How to reach me **hermartreyt@gmail.com**
 
